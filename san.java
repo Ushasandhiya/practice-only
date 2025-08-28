@@ -13,11 +13,14 @@ public class san {
     while(n>=10)
     {
         n = n/10;
-        System.out.println(n);
+        
     }
+    System.out.println("first digit is: " + n);
+
 
         
     }
+
 }
 
     
