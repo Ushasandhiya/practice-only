@@ -9,5 +9,4 @@ public class count {
         }
         System.out.println("Number of digits: " + count);
     }
-    
 }
